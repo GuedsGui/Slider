@@ -1,3 +1,3 @@
 # Slider
 
-![](https://raw.githubusercontent.com/GuedsGui/Slider/master/slider-pronto.gif)
+![](https://raw.githubusercontent.com/GuedsGui/Slider/master/assets/screenshot.jpg)
